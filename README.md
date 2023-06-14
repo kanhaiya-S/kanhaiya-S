@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kanhaiya-S
+- 👋 Hi, I’m @kanhaiya-Sharma
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning AI
 
